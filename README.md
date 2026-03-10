@@ -26,8 +26,8 @@ Train the model using binary cross-entropy loss function and Adam optimizer.
 Evaluate the model with test data loader and intepret the evaluation metrics such as confusion matrix and classification report.
 
 ## PROGRAM
-NAME: SANJITH R
-REG NO: 212223230191
+## NAME: SANJITH R
+## REG NO: 212223230191
 ```python
 # Load Pretrained Model and Modify for Transfer Learning
 model = models.vgg19(weights = models.VGG19_Weights.DEFAULT)
